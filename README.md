@@ -142,17 +142,6 @@ Microservices · Backend for Frontend (BFF) · Hexagonal architecture · MVC · 
 
 **Arabic** (native) · **French** (B2) · **English** (B1)
 
-### GitHub insights
-
-<div align="center">
-
-<img alt="Mohamed's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=mohamed-yawina&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
-<img alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-yawina&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" />
-
-</div>
-
-<sub>Stats are rendered by an external service and may occasionally be unavailable. Language proportions describe repository content, not skill level.</sub>
-
 ### Connect
 
 I'm open to **PFE internship opportunities starting February 2027**, especially in **Java/Spring Boot, software engineering, cloud, and DevOps**. Feel free to reach out or explore my work.
